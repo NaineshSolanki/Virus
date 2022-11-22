@@ -204,4 +204,3 @@ $shell.Namespace($destination).copyhere($item)
 }
 Expand-ZIPFile -File "C:\LabFiles\AutomationInsuranceClaim.zip" -Destination "C:\Users\Public\Desktop"
 Rename-Item C:\Users\Public\Desktop\AutomationInsuranceclaim-main C:\Users\Public\Desktop\AutomationInsuranceClaim
-
